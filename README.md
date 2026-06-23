@@ -1,4 +1,4 @@
-## Welcome to the policeSensorTurret wiki!
+## Welcome to the Police Turret Wiki!
 
 This is a hack for the Crunchlabs Hack Pack IR Turret. It adds a police mode to the turret with a servo motor to spin two LEDs that act as the lights in addition to the passive beeper that adds the sound.
 
